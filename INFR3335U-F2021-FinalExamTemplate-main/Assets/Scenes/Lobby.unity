@@ -1852,7 +1852,8 @@ MonoBehaviour:
   error: {fileID: 937527331}
   roomName: {fileID: 737326967}
   playerCount: {fileID: 1843664754}
-  playerListing: {fileID: 1917046088}
+  playerListing: {fileID: 8469308203692786087, guid: cd990f31688ba4241b351c2ecd9edd7f,
+    type: 3}
   playerListContent: {fileID: 1081916208}
   startButton: {fileID: 1470884408}
   settingsButton: {fileID: 1035493011}
